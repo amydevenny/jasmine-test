@@ -20,7 +20,7 @@ it("should return a result with 2 decimal places", function() {
 
 /// etc
 
-it('should calculate a large mortgage amount', function() {
+it('should calculate a large purchase amount', function() {
   const values = {
     amount: 50000000,
     years: 30,
